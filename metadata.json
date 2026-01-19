@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Online Avtobus Booking",
+  "description": "A premium Uzbek bus ticket booking application for the Toshkent to Navoiy route with a visual seat map and LocalStorage persistence.",
+  "requestFramePermissions": []
+}
